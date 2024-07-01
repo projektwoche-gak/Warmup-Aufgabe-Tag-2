@@ -1,0 +1,14 @@
+Einleitung:
+In einem kleinen, malerischen Dorf namens Grünwald bereiten sich die Bewohner auf das jährliche Dorffest vor. Dieses Fest ist bekannt für seine lebendigen Dekorationen und besonders für die farbenfrohe Tischgestaltung. Deine Aufgabe ist es, die Festtafel im Internet zum Leben zu erwecken!
+
+Aufgabenstellung:
+Erstelle eine HTML-Seite, die eine Tabelle für das Dorffest darstellt. Die Tabelle soll die verschiedenen Speisen auflisten, die auf dem Fest serviert werden. Verwende dafür HTML und CSS, um die Tabelle zu gestalten und anzupassen.
+
+    Struktur der Tabelle:
+        Die Tabelle sollte aus einem thead-Element für die Kopfzeile bestehen, in dem "Speise", "Herkunft" und "Besonderheit" als Spaltenüberschriften stehen.
+        Ein tbody-Element soll die verschiedenen Speisen auflisten.
+        Jede Zeile im tbody repräsentiert eine Speise mit den zugehörigen Informationen in den Zellen.
+
+    CSS-Stil:
+        Die Zellen der Tabelle sollen einen grünen Hintergrund haben, um das Thema des Dorffestes widerzuspieleln.
+        Die Kopfzeile der Tabelle soll sich in Schriftart und -größe von den anderen Zellen unterscheiden und vielleicht ein bisschen festlicher wirken.
